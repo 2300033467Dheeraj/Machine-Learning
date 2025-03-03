@@ -19,3 +19,8 @@ This learning experience was a crucial part of my internship, helping me build r
 🔹 Explored clustering techniques for data segmentation
 🔹 Developed recommender systems for personalized recommendations
 🔹 Applied data preprocessing techniques for better model performance 
+
+🚀 Technologies Used
+Programming Language: Python 🐍
+Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+Tools: Jupyter Notebook
