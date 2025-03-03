@@ -1,4 +1,4 @@
-#Machine Learning 🚀
+Machine Learning 🚀
 I have learned Machine Learning from the Code Pulse platform, which has helped me enhance my technical skills. This journey allowed me to gain hands-on experience with key ML concepts, improving both my understanding and practical implementation abilities.
 
 Through this learning process, I covered essential Machine Learning topics, including:
